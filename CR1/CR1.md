@@ -108,7 +108,8 @@ public class Oku {
 
 Sonuçları da output.txt dosyasına bastırdım.
 
-output
+![output](https://cloud.githubusercontent.com/assets/17202745/22866044/83745c9c-f180-11e6-8b02-5a2843f17b85.png)
+
 
 Daha sonra çıkan binary sayıları www.binarytranslator.com/ sitesinden text'e çevirdim.
 
