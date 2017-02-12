@@ -1,4 +1,4 @@
-In this question,we have a text file full of ZERO's and ONE's. So firstly,I wrote a Java code to convert ZERO's and ONE's into 0's and 1's. 
+In this question,we have a text file full of ZEROs and ONEs. So firstly,I wrote a Java code to convert ZEROs and ONEs into 0s and 1s. 
 
 import java.io.*; import java.util.Scanner;
 
